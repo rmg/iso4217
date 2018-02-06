@@ -50,17 +50,31 @@ func main() {
 	const tpl = `package iso4217
 
 var names = map[int]string {
-    {{range $num, $entry := .}}{{$num}}: "{{$entry.Ccy}}",
-    {{end}}
+	{{range $num, $entry := .}}{{$num}}: "{{$entry.Ccy}}",
+	{{end}}
+}
+
+var codes = map[string]int {
+	{{range $num, $entry := .}}"{{$entry.Ccy}}": {{$num}},
+	{{end}}
 }
 
 var minorUnits = map[int]int {
-    {{range $num, $entry := .}}{{$num}}: {{$entry.CcyMnrUnts}},
-    {{end}}
+	{{range $num, $entry := .}}{{$num}}: {{$entry.CcyMnrUnts}},
+	{{end}}
 }
 
+// ByCode resolves the given code to the 3 character string and the number of
+// minor unit digits to display for the given currency.
 func ByCode(n int) (string, int) {
-    return names[n], minorUnits[n]
+	return names[n], minorUnits[n]
+}
+
+// ByName resolves the given name to the numeric code and the number of minor
+// unit digits to display for the given currency.
+func ByName(s string) (int, int) {
+	code := codes[s]
+	return code, minorUnits[code]
 }
 `
 	t := template.Must(template.New("constants.go.in").Parse(tpl))
