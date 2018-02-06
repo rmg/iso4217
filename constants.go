@@ -549,10 +549,14 @@ var minorUnits = map[int]int{
 	999: 0,
 }
 
+// ByCode resolves the given code to the 3 character string and the number of
+// minor unit digits to display for the given currency.
 func ByCode(n int) (string, int) {
 	return names[n], minorUnits[n]
 }
 
+// ByName resolves the given name to the numeric code and the number of minor
+// unit digits to display for the given currency.
 func ByName(s string) (int, int) {
 	code := codes[s]
 	return code, minorUnits[code]
