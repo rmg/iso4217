@@ -1,3 +1,4 @@
+// Package iso4217 is a convenience library containing ISO 4217 currency codes
 package iso4217
 
 var names = map[int]string{
