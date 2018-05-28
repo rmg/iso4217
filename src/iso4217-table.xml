@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<!-- from http://www.currency-iso.org/dam/downloads/table_a1.xml -->
-<ISO_4217 Pblshd="2014-08-15">
+<!--
+	Source: https://www.currency-iso.org/dam/downloads/lists/list_one.xml
+	Date: 2018-02-06
+-->
+<ISO_4217 Pblshd="2018-01-01">
 	<CcyTbl>
 		<CcyNtry>
 			<CtryNm>AFGHANISTAN</CtryNm>
@@ -106,13 +109,13 @@
 		</CcyNtry>
 		<CcyNtry>
 			<CtryNm>AZERBAIJAN</CtryNm>
-			<CcyNm>Azerbaijanian Manat</CcyNm>
+			<CcyNm>Azerbaijan Manat</CcyNm>
 			<Ccy>AZN</Ccy>
 			<CcyNbr>944</CcyNbr>
 			<CcyMnrUnts>2</CcyMnrUnts>
 		</CcyNtry>
 		<CcyNtry>
-			<CtryNm>BAHAMAS</CtryNm>
+			<CtryNm>BAHAMAS (THE)</CtryNm>
 			<CcyNm>Bahamian Dollar</CcyNm>
 			<Ccy>BSD</Ccy>
 			<CcyNbr>044</CcyNbr>
@@ -141,10 +144,10 @@
 		</CcyNtry>
 		<CcyNtry>
 			<CtryNm>BELARUS</CtryNm>
-			<CcyNm>Belarussian Ruble</CcyNm>
-			<Ccy>BYR</Ccy>
-			<CcyNbr>974</CcyNbr>
-			<CcyMnrUnts>0</CcyMnrUnts>
+			<CcyNm>Belarusian Ruble</CcyNm>
+			<Ccy>BYN</Ccy>
+			<CcyNbr>933</CcyNbr>
+			<CcyMnrUnts>2</CcyMnrUnts>
 		</CcyNtry>
 		<CcyNtry>
 			<CtryNm>BELGIUM</CtryNm>
@@ -176,27 +179,27 @@
 		</CcyNtry>
 		<CcyNtry>
 			<CtryNm>BHUTAN</CtryNm>
-			<CcyNm>Ngultrum</CcyNm>
-			<Ccy>BTN</Ccy>
-			<CcyNbr>064</CcyNbr>
-			<CcyMnrUnts>2</CcyMnrUnts>
-		</CcyNtry>
-		<CcyNtry>
-			<CtryNm>BHUTAN</CtryNm>
 			<CcyNm>Indian Rupee</CcyNm>
 			<Ccy>INR</Ccy>
 			<CcyNbr>356</CcyNbr>
 			<CcyMnrUnts>2</CcyMnrUnts>
 		</CcyNtry>
 		<CcyNtry>
-			<CtryNm>BOLIVIA, PLURINATIONAL STATE OF</CtryNm>
+			<CtryNm>BHUTAN</CtryNm>
+			<CcyNm>Ngultrum</CcyNm>
+			<Ccy>BTN</Ccy>
+			<CcyNbr>064</CcyNbr>
+			<CcyMnrUnts>2</CcyMnrUnts>
+		</CcyNtry>
+		<CcyNtry>
+			<CtryNm>BOLIVIA (PLURINATIONAL STATE OF)</CtryNm>
 			<CcyNm>Boliviano</CcyNm>
 			<Ccy>BOB</Ccy>
 			<CcyNbr>068</CcyNbr>
 			<CcyMnrUnts>2</CcyMnrUnts>
 		</CcyNtry>
 		<CcyNtry>
-			<CtryNm>BOLIVIA, PLURINATIONAL STATE OF</CtryNm>
+			<CtryNm>BOLIVIA (PLURINATIONAL STATE OF)</CtryNm>
 			<CcyNm IsFund="true">Mvdol</CcyNm>
 			<Ccy>BOV</Ccy>
 			<CcyNbr>984</CcyNbr>
@@ -238,7 +241,7 @@
 			<CcyMnrUnts>2</CcyMnrUnts>
 		</CcyNtry>
 		<CcyNtry>
-			<CtryNm>BRITISH INDIAN OCEAN TERRITORY</CtryNm>
+			<CtryNm>BRITISH INDIAN OCEAN TERRITORY (THE)</CtryNm>
 			<CcyNm>US Dollar</CcyNm>
 			<Ccy>USD</Ccy>
 			<CcyNbr>840</CcyNbr>
@@ -273,6 +276,13 @@
 			<CcyMnrUnts>0</CcyMnrUnts>
 		</CcyNtry>
 		<CcyNtry>
+			<CtryNm>CABO VERDE</CtryNm>
+			<CcyNm>Cabo Verde Escudo</CcyNm>
+			<Ccy>CVE</Ccy>
+			<CcyNbr>132</CcyNbr>
+			<CcyMnrUnts>2</CcyMnrUnts>
+		</CcyNtry>
+		<CcyNtry>
 			<CtryNm>CAMBODIA</CtryNm>
 			<CcyNm>Riel</CcyNm>
 			<Ccy>KHR</Ccy>
@@ -294,21 +304,14 @@
 			<CcyMnrUnts>2</CcyMnrUnts>
 		</CcyNtry>
 		<CcyNtry>
-			<CtryNm>CABO VERDE</CtryNm>
-			<CcyNm>Cabo Verde Escudo</CcyNm>
-			<Ccy>CVE</Ccy>
-			<CcyNbr>132</CcyNbr>
-			<CcyMnrUnts>2</CcyMnrUnts>
-		</CcyNtry>
-		<CcyNtry>
-			<CtryNm>CAYMAN ISLANDS</CtryNm>
+			<CtryNm>CAYMAN ISLANDS (THE)</CtryNm>
 			<CcyNm>Cayman Islands Dollar</CcyNm>
 			<Ccy>KYD</Ccy>
 			<CcyNbr>136</CcyNbr>
 			<CcyMnrUnts>2</CcyMnrUnts>
 		</CcyNtry>
 		<CcyNtry>
-			<CtryNm>CENTRAL AFRICAN REPUBLIC</CtryNm>
+			<CtryNm>CENTRAL AFRICAN REPUBLIC (THE)</CtryNm>
 			<CcyNm>CFA Franc BEAC</CcyNm>
 			<Ccy>XAF</Ccy>
 			<CcyNbr>950</CcyNbr>
@@ -323,17 +326,17 @@
 		</CcyNtry>
 		<CcyNtry>
 			<CtryNm>CHILE</CtryNm>
-			<CcyNm IsFund="true">Unidad de Fomento</CcyNm>
-			<Ccy>CLF</Ccy>
-			<CcyNbr>990</CcyNbr>
-			<CcyMnrUnts>4</CcyMnrUnts>
-		</CcyNtry>
-		<CcyNtry>
-			<CtryNm>CHILE</CtryNm>
 			<CcyNm>Chilean Peso</CcyNm>
 			<Ccy>CLP</Ccy>
 			<CcyNbr>152</CcyNbr>
 			<CcyMnrUnts>0</CcyMnrUnts>
+		</CcyNtry>
+		<CcyNtry>
+			<CtryNm>CHILE</CtryNm>
+			<CcyNm IsFund="true">Unidad de Fomento</CcyNm>
+			<Ccy>CLF</Ccy>
+			<CcyNbr>990</CcyNbr>
+			<CcyMnrUnts>4</CcyMnrUnts>
 		</CcyNtry>
 		<CcyNtry>
 			<CtryNm>CHINA</CtryNm>
@@ -350,7 +353,7 @@
 			<CcyMnrUnts>2</CcyMnrUnts>
 		</CcyNtry>
 		<CcyNtry>
-			<CtryNm>COCOS (KEELING) ISLANDS</CtryNm>
+			<CtryNm>COCOS (KEELING) ISLANDS (THE)</CtryNm>
 			<CcyNm>Australian Dollar</CcyNm>
 			<Ccy>AUD</Ccy>
 			<CcyNbr>036</CcyNbr>
@@ -371,28 +374,28 @@
 			<CcyMnrUnts>2</CcyMnrUnts>
 		</CcyNtry>
 		<CcyNtry>
-			<CtryNm>COMOROS</CtryNm>
-			<CcyNm>Comoro Franc</CcyNm>
+			<CtryNm>COMOROS (THE)</CtryNm>
+			<CcyNm>Comorian Franc </CcyNm>
 			<Ccy>KMF</Ccy>
 			<CcyNbr>174</CcyNbr>
 			<CcyMnrUnts>0</CcyMnrUnts>
 		</CcyNtry>
 		<CcyNtry>
-			<CtryNm>CONGO</CtryNm>
-			<CcyNm>CFA Franc BEAC</CcyNm>
-			<Ccy>XAF</Ccy>
-			<CcyNbr>950</CcyNbr>
-			<CcyMnrUnts>0</CcyMnrUnts>
-		</CcyNtry>
-		<CcyNtry>
-			<CtryNm>CONGO, DEMOCRATIC REPUBLIC OF THE </CtryNm>
+			<CtryNm>CONGO (THE DEMOCRATIC REPUBLIC OF THE)</CtryNm>
 			<CcyNm>Congolese Franc</CcyNm>
 			<Ccy>CDF</Ccy>
 			<CcyNbr>976</CcyNbr>
 			<CcyMnrUnts>2</CcyMnrUnts>
 		</CcyNtry>
 		<CcyNtry>
-			<CtryNm>COOK ISLANDS</CtryNm>
+			<CtryNm>CONGO (THE)</CtryNm>
+			<CcyNm>CFA Franc BEAC</CcyNm>
+			<Ccy>XAF</Ccy>
+			<CcyNbr>950</CcyNbr>
+			<CcyMnrUnts>0</CcyMnrUnts>
+		</CcyNtry>
+		<CcyNtry>
+			<CtryNm>COOK ISLANDS (THE)</CtryNm>
 			<CcyNm>New Zealand Dollar</CcyNm>
 			<Ccy>NZD</Ccy>
 			<CcyNbr>554</CcyNbr>
@@ -414,16 +417,9 @@
 		</CcyNtry>
 		<CcyNtry>
 			<CtryNm>CROATIA</CtryNm>
-			<CcyNm>Croatian Kuna</CcyNm>
+			<CcyNm>Kuna</CcyNm>
 			<Ccy>HRK</Ccy>
 			<CcyNbr>191</CcyNbr>
-			<CcyMnrUnts>2</CcyMnrUnts>
-		</CcyNtry>
-		<CcyNtry>
-			<CtryNm>CUBA</CtryNm>
-			<CcyNm>Peso Convertible</CcyNm>
-			<Ccy>CUC</Ccy>
-			<CcyNbr>931</CcyNbr>
 			<CcyMnrUnts>2</CcyMnrUnts>
 		</CcyNtry>
 		<CcyNtry>
@@ -431,6 +427,13 @@
 			<CcyNm>Cuban Peso</CcyNm>
 			<Ccy>CUP</Ccy>
 			<CcyNbr>192</CcyNbr>
+			<CcyMnrUnts>2</CcyMnrUnts>
+		</CcyNtry>
+		<CcyNtry>
+			<CtryNm>CUBA</CtryNm>
+			<CcyNm>Peso Convertible</CcyNm>
+			<Ccy>CUC</Ccy>
+			<CcyNbr>931</CcyNbr>
 			<CcyMnrUnts>2</CcyMnrUnts>
 		</CcyNtry>
 		<CcyNtry>
@@ -448,7 +451,7 @@
 			<CcyMnrUnts>2</CcyMnrUnts>
 		</CcyNtry>
 		<CcyNtry>
-			<CtryNm>CZECH REPUBLIC</CtryNm>
+			<CtryNm>CZECHIA</CtryNm>
 			<CcyNm>Czech Koruna</CcyNm>
 			<Ccy>CZK</Ccy>
 			<CcyNbr>203</CcyNbr>
@@ -476,7 +479,7 @@
 			<CcyMnrUnts>2</CcyMnrUnts>
 		</CcyNtry>
 		<CcyNtry>
-			<CtryNm>DOMINICAN REPUBLIC</CtryNm>
+			<CtryNm>DOMINICAN REPUBLIC (THE)</CtryNm>
 			<CcyNm>Dominican Peso</CcyNm>
 			<Ccy>DOP</Ccy>
 			<CcyNbr>214</CcyNbr>
@@ -546,14 +549,14 @@
 			<CcyMnrUnts>2</CcyMnrUnts>
 		</CcyNtry>
 		<CcyNtry>
-			<CtryNm>FALKLAND ISLANDS (MALVINAS)</CtryNm>
+			<CtryNm>FALKLAND ISLANDS (THE) [MALVINAS]</CtryNm>
 			<CcyNm>Falkland Islands Pound</CcyNm>
 			<Ccy>FKP</Ccy>
 			<CcyNbr>238</CcyNbr>
 			<CcyMnrUnts>2</CcyMnrUnts>
 		</CcyNtry>
 		<CcyNtry>
-			<CtryNm>FAROE ISLANDS</CtryNm>
+			<CtryNm>FAROE ISLANDS (THE)</CtryNm>
 			<CcyNm>Danish Krone</CcyNm>
 			<Ccy>DKK</Ccy>
 			<CcyNbr>208</CcyNbr>
@@ -595,7 +598,7 @@
 			<CcyMnrUnts>0</CcyMnrUnts>
 		</CcyNtry>
 		<CcyNtry>
-			<CtryNm>FRENCH SOUTHERN TERRITORIES</CtryNm>
+			<CtryNm>FRENCH SOUTHERN TERRITORIES (THE)</CtryNm>
 			<CcyNm>Euro</CcyNm>
 			<Ccy>EUR</Ccy>
 			<CcyNbr>978</CcyNbr>
@@ -609,7 +612,7 @@
 			<CcyMnrUnts>0</CcyMnrUnts>
 		</CcyNtry>
 		<CcyNtry>
-			<CtryNm>GAMBIA</CtryNm>
+			<CtryNm>GAMBIA (THE)</CtryNm>
 			<CcyNm>Dalasi</CcyNm>
 			<Ccy>GMD</Ccy>
 			<CcyNbr>270</CcyNbr>
@@ -694,7 +697,7 @@
 		</CcyNtry>
 		<CcyNtry>
 			<CtryNm>GUINEA</CtryNm>
-			<CcyNm>Guinea Franc</CcyNm>
+			<CcyNm>Guinean Franc</CcyNm>
 			<Ccy>GNF</Ccy>
 			<CcyNbr>324</CcyNbr>
 			<CcyMnrUnts>0</CcyMnrUnts>
@@ -735,7 +738,7 @@
 			<CcyMnrUnts>2</CcyMnrUnts>
 		</CcyNtry>
 		<CcyNtry>
-			<CtryNm>HOLY SEE (VATICAN CITY STATE)</CtryNm>
+			<CtryNm>HOLY SEE (THE)</CtryNm>
 			<CcyNm>Euro</CcyNm>
 			<Ccy>EUR</Ccy>
 			<CcyNbr>978</CcyNbr>
@@ -791,7 +794,7 @@
 			<CcyMnrUnts>N.A.</CcyMnrUnts>
 		</CcyNtry>
 		<CcyNtry>
-			<CtryNm>IRAN, ISLAMIC REPUBLIC OF</CtryNm>
+			<CtryNm>IRAN (ISLAMIC REPUBLIC OF)</CtryNm>
 			<CcyNm>Iranian Rial</CcyNm>
 			<Ccy>IRR</Ccy>
 			<CcyNbr>364</CcyNbr>
@@ -882,14 +885,14 @@
 			<CcyMnrUnts>2</CcyMnrUnts>
 		</CcyNtry>
 		<CcyNtry>
-			<CtryNm>KOREA, DEMOCRATIC PEOPLE’S REPUBLIC OF</CtryNm>
+			<CtryNm>KOREA (THE DEMOCRATIC PEOPLE’S REPUBLIC OF)</CtryNm>
 			<CcyNm>North Korean Won</CcyNm>
 			<Ccy>KPW</Ccy>
 			<CcyNbr>408</CcyNbr>
 			<CcyMnrUnts>2</CcyMnrUnts>
 		</CcyNtry>
 		<CcyNtry>
-			<CtryNm>KOREA, REPUBLIC OF</CtryNm>
+			<CtryNm>KOREA (THE REPUBLIC OF)</CtryNm>
 			<CcyNm>Won</CcyNm>
 			<Ccy>KRW</Ccy>
 			<CcyNbr>410</CcyNbr>
@@ -910,8 +913,8 @@
 			<CcyMnrUnts>2</CcyMnrUnts>
 		</CcyNtry>
 		<CcyNtry>
-			<CtryNm>LAO PEOPLE’S DEMOCRATIC REPUBLIC</CtryNm>
-			<CcyNm>Kip</CcyNm>
+			<CtryNm>LAO PEOPLE’S DEMOCRATIC REPUBLIC (THE)</CtryNm>
+			<CcyNm>Lao Kip</CcyNm>
 			<Ccy>LAK</Ccy>
 			<CcyNbr>418</CcyNbr>
 			<CcyMnrUnts>2</CcyMnrUnts>
@@ -967,9 +970,9 @@
 		</CcyNtry>
 		<CcyNtry>
 			<CtryNm>LITHUANIA</CtryNm>
-			<CcyNm>Lithuanian Litas</CcyNm>
-			<Ccy>LTL</Ccy>
-			<CcyNbr>440</CcyNbr>
+			<CcyNm>Euro</CcyNm>
+			<Ccy>EUR</Ccy>
+			<CcyNbr>978</CcyNbr>
 			<CcyMnrUnts>2</CcyMnrUnts>
 		</CcyNtry>
 		<CcyNtry>
@@ -987,8 +990,7 @@
 			<CcyMnrUnts>2</CcyMnrUnts>
 		</CcyNtry>
 		<CcyNtry>
-			<CtryNm>MACEDONIA, THE FORMER 
-YUGOSLAV REPUBLIC OF</CtryNm>
+			<CtryNm>MACEDONIA (THE FORMER YUGOSLAV REPUBLIC OF)</CtryNm>
 			<CcyNm>Denar</CcyNm>
 			<Ccy>MKD</Ccy>
 			<CcyNbr>807</CcyNbr>
@@ -1003,7 +1005,7 @@ YUGOSLAV REPUBLIC OF</CtryNm>
 		</CcyNtry>
 		<CcyNtry>
 			<CtryNm>MALAWI</CtryNm>
-			<CcyNm>Kwacha</CcyNm>
+			<CcyNm>Malawi Kwacha</CcyNm>
 			<Ccy>MWK</Ccy>
 			<CcyNbr>454</CcyNbr>
 			<CcyMnrUnts>2</CcyMnrUnts>
@@ -1037,7 +1039,7 @@ YUGOSLAV REPUBLIC OF</CtryNm>
 			<CcyMnrUnts>2</CcyMnrUnts>
 		</CcyNtry>
 		<CcyNtry>
-			<CtryNm>MARSHALL ISLANDS</CtryNm>
+			<CtryNm>MARSHALL ISLANDS (THE)</CtryNm>
 			<CcyNm>US Dollar</CcyNm>
 			<Ccy>USD</Ccy>
 			<CcyNbr>840</CcyNbr>
@@ -1053,8 +1055,8 @@ YUGOSLAV REPUBLIC OF</CtryNm>
 		<CcyNtry>
 			<CtryNm>MAURITANIA</CtryNm>
 			<CcyNm>Ouguiya</CcyNm>
-			<Ccy>MRO</Ccy>
-			<CcyNbr>478</CcyNbr>
+			<Ccy>MRU</Ccy>
+			<CcyNbr>929</CcyNbr>
 			<CcyMnrUnts>2</CcyMnrUnts>
 		</CcyNtry>
 		<CcyNtry>
@@ -1093,14 +1095,14 @@ YUGOSLAV REPUBLIC OF</CtryNm>
 			<CcyMnrUnts>2</CcyMnrUnts>
 		</CcyNtry>
 		<CcyNtry>
-			<CtryNm>MICRONESIA, FEDERATED STATES OF</CtryNm>
+			<CtryNm>MICRONESIA (FEDERATED STATES OF)</CtryNm>
 			<CcyNm>US Dollar</CcyNm>
 			<Ccy>USD</Ccy>
 			<CcyNbr>840</CcyNbr>
 			<CcyMnrUnts>2</CcyMnrUnts>
 		</CcyNtry>
 		<CcyNtry>
-			<CtryNm>MOLDOVA, REPUBLIC OF</CtryNm>
+			<CtryNm>MOLDOVA (THE REPUBLIC OF)</CtryNm>
 			<CcyNm>Moldovan Leu</CcyNm>
 			<Ccy>MDL</Ccy>
 			<CcyNbr>498</CcyNbr>
@@ -1184,7 +1186,7 @@ YUGOSLAV REPUBLIC OF</CtryNm>
 			<CcyMnrUnts>2</CcyMnrUnts>
 		</CcyNtry>
 		<CcyNtry>
-			<CtryNm>NETHERLANDS</CtryNm>
+			<CtryNm>NETHERLANDS (THE)</CtryNm>
 			<CcyNm>Euro</CcyNm>
 			<Ccy>EUR</Ccy>
 			<CcyNbr>978</CcyNbr>
@@ -1212,7 +1214,7 @@ YUGOSLAV REPUBLIC OF</CtryNm>
 			<CcyMnrUnts>2</CcyMnrUnts>
 		</CcyNtry>
 		<CcyNtry>
-			<CtryNm>NIGER</CtryNm>
+			<CtryNm>NIGER (THE)</CtryNm>
 			<CcyNm>CFA Franc BCEAO</CcyNm>
 			<Ccy>XOF</Ccy>
 			<CcyNbr>952</CcyNbr>
@@ -1240,7 +1242,7 @@ YUGOSLAV REPUBLIC OF</CtryNm>
 			<CcyMnrUnts>2</CcyMnrUnts>
 		</CcyNtry>
 		<CcyNtry>
-			<CtryNm>NORTHERN MARIANA ISLANDS</CtryNm>
+			<CtryNm>NORTHERN MARIANA ISLANDS (THE)</CtryNm>
 			<CcyNm>US Dollar</CcyNm>
 			<Ccy>USD</Ccy>
 			<CcyNbr>840</CcyNbr>
@@ -1308,14 +1310,14 @@ YUGOSLAV REPUBLIC OF</CtryNm>
 		</CcyNtry>
 		<CcyNtry>
 			<CtryNm>PERU</CtryNm>
-			<CcyNm>Nuevo Sol</CcyNm>
+			<CcyNm>Sol</CcyNm>
 			<Ccy>PEN</Ccy>
 			<CcyNbr>604</CcyNbr>
 			<CcyMnrUnts>2</CcyMnrUnts>
 		</CcyNtry>
 		<CcyNtry>
-			<CtryNm>PHILIPPINES</CtryNm>
-			<CcyNm>Philippine Peso</CcyNm>
+			<CtryNm>PHILIPPINES (THE)</CtryNm>
+			<CcyNm>Philippine Piso</CcyNm>
 			<Ccy>PHP</Ccy>
 			<CcyNbr>608</CcyNbr>
 			<CcyMnrUnts>2</CcyMnrUnts>
@@ -1364,13 +1366,13 @@ YUGOSLAV REPUBLIC OF</CtryNm>
 		</CcyNtry>
 		<CcyNtry>
 			<CtryNm>ROMANIA</CtryNm>
-			<CcyNm>New Romanian Leu</CcyNm>
+			<CcyNm>Romanian Leu</CcyNm>
 			<Ccy>RON</Ccy>
 			<CcyNbr>946</CcyNbr>
 			<CcyMnrUnts>2</CcyMnrUnts>
 		</CcyNtry>
 		<CcyNtry>
-			<CtryNm>RUSSIAN FEDERATION</CtryNm>
+			<CtryNm>RUSSIAN FEDERATION (THE)</CtryNm>
 			<CcyNm>Russian Ruble</CcyNm>
 			<Ccy>RUB</Ccy>
 			<CcyNbr>643</CcyNbr>
@@ -1391,8 +1393,7 @@ YUGOSLAV REPUBLIC OF</CtryNm>
 			<CcyMnrUnts>2</CcyMnrUnts>
 		</CcyNtry>
 		<CcyNtry>
-			<CtryNm>SAINT HELENA, ASCENSION AND 
-TRISTAN DA CUNHA</CtryNm>
+			<CtryNm>SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA</CtryNm>
 			<CcyNm>Saint Helena Pound</CcyNm>
 			<Ccy>SHP</Ccy>
 			<CcyNbr>654</CcyNbr>
@@ -1450,8 +1451,8 @@ TRISTAN DA CUNHA</CtryNm>
 		<CcyNtry>
 			<CtryNm>SAO TOME AND PRINCIPE</CtryNm>
 			<CcyNm>Dobra</CcyNm>
-			<Ccy>STD</Ccy>
-			<CcyNbr>678</CcyNbr>
+			<Ccy>STN</Ccy>
+			<CcyNbr>930</CcyNbr>
 			<CcyMnrUnts>2</CcyMnrUnts>
 		</CcyNtry>
 		<CcyNtry>
@@ -1571,7 +1572,7 @@ TRISTAN DA CUNHA</CtryNm>
 			<CcyMnrUnts>2</CcyMnrUnts>
 		</CcyNtry>
 		<CcyNtry>
-			<CtryNm>SUDAN</CtryNm>
+			<CtryNm>SUDAN (THE)</CtryNm>
 			<CcyNm>Sudanese Pound</CcyNm>
 			<Ccy>SDG</Ccy>
 			<CcyNbr>938</CcyNbr>
@@ -1607,16 +1608,16 @@ TRISTAN DA CUNHA</CtryNm>
 		</CcyNtry>
 		<CcyNtry>
 			<CtryNm>SWITZERLAND</CtryNm>
-			<CcyNm IsFund="true">WIR Euro</CcyNm>
-			<Ccy>CHE</Ccy>
-			<CcyNbr>947</CcyNbr>
+			<CcyNm>Swiss Franc</CcyNm>
+			<Ccy>CHF</Ccy>
+			<CcyNbr>756</CcyNbr>
 			<CcyMnrUnts>2</CcyMnrUnts>
 		</CcyNtry>
 		<CcyNtry>
 			<CtryNm>SWITZERLAND</CtryNm>
-			<CcyNm>Swiss Franc</CcyNm>
-			<Ccy>CHF</Ccy>
-			<CcyNbr>756</CcyNbr>
+			<CcyNm IsFund="true">WIR Euro</CcyNm>
+			<Ccy>CHE</Ccy>
+			<CcyNbr>947</CcyNbr>
 			<CcyMnrUnts>2</CcyMnrUnts>
 		</CcyNtry>
 		<CcyNtry>
@@ -1634,7 +1635,7 @@ TRISTAN DA CUNHA</CtryNm>
 			<CcyMnrUnts>2</CcyMnrUnts>
 		</CcyNtry>
 		<CcyNtry>
-			<CtryNm>TAIWAN, PROVINCE OF CHINA</CtryNm>
+			<CtryNm>TAIWAN (PROVINCE OF CHINA)</CtryNm>
 			<CcyNm>New Taiwan Dollar</CcyNm>
 			<Ccy>TWD</Ccy>
 			<CcyNbr>901</CcyNbr>
@@ -1718,7 +1719,7 @@ TRISTAN DA CUNHA</CtryNm>
 			<CcyMnrUnts>2</CcyMnrUnts>
 		</CcyNtry>
 		<CcyNtry>
-			<CtryNm>TURKS AND CAICOS ISLANDS</CtryNm>
+			<CtryNm>TURKS AND CAICOS ISLANDS (THE)</CtryNm>
 			<CcyNm>US Dollar</CcyNm>
 			<Ccy>USD</Ccy>
 			<CcyNbr>840</CcyNbr>
@@ -1746,38 +1747,45 @@ TRISTAN DA CUNHA</CtryNm>
 			<CcyMnrUnts>2</CcyMnrUnts>
 		</CcyNtry>
 		<CcyNtry>
-			<CtryNm>UNITED ARAB EMIRATES</CtryNm>
+			<CtryNm>UNITED ARAB EMIRATES (THE)</CtryNm>
 			<CcyNm>UAE Dirham</CcyNm>
 			<Ccy>AED</Ccy>
 			<CcyNbr>784</CcyNbr>
 			<CcyMnrUnts>2</CcyMnrUnts>
 		</CcyNtry>
 		<CcyNtry>
-			<CtryNm>UNITED KINGDOM</CtryNm>
+			<CtryNm>UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND (THE)</CtryNm>
 			<CcyNm>Pound Sterling</CcyNm>
 			<Ccy>GBP</Ccy>
 			<CcyNbr>826</CcyNbr>
 			<CcyMnrUnts>2</CcyMnrUnts>
 		</CcyNtry>
 		<CcyNtry>
-			<CtryNm>UNITED STATES</CtryNm>
+			<CtryNm>UNITED STATES MINOR OUTLYING ISLANDS (THE)</CtryNm>
 			<CcyNm>US Dollar</CcyNm>
 			<Ccy>USD</Ccy>
 			<CcyNbr>840</CcyNbr>
 			<CcyMnrUnts>2</CcyMnrUnts>
 		</CcyNtry>
 		<CcyNtry>
-			<CtryNm>UNITED STATES</CtryNm>
+			<CtryNm>UNITED STATES OF AMERICA (THE)</CtryNm>
+			<CcyNm>US Dollar</CcyNm>
+			<Ccy>USD</Ccy>
+			<CcyNbr>840</CcyNbr>
+			<CcyMnrUnts>2</CcyMnrUnts>
+		</CcyNtry>
+		<CcyNtry>
+			<CtryNm>UNITED STATES OF AMERICA (THE)</CtryNm>
 			<CcyNm IsFund="true">US Dollar (Next day)</CcyNm>
 			<Ccy>USN</Ccy>
 			<CcyNbr>997</CcyNbr>
 			<CcyMnrUnts>2</CcyMnrUnts>
 		</CcyNtry>
 		<CcyNtry>
-			<CtryNm>UNITED STATES MINOR OUTLYING ISLANDS</CtryNm>
-			<CcyNm>US Dollar</CcyNm>
-			<Ccy>USD</Ccy>
-			<CcyNbr>840</CcyNbr>
+			<CtryNm>URUGUAY</CtryNm>
+			<CcyNm>Peso Uruguayo</CcyNm>
+			<Ccy>UYU</Ccy>
+			<CcyNbr>858</CcyNbr>
 			<CcyMnrUnts>2</CcyMnrUnts>
 		</CcyNtry>
 		<CcyNtry>
@@ -1786,13 +1794,6 @@ TRISTAN DA CUNHA</CtryNm>
 			<Ccy>UYI</Ccy>
 			<CcyNbr>940</CcyNbr>
 			<CcyMnrUnts>0</CcyMnrUnts>
-		</CcyNtry>
-		<CcyNtry>
-			<CtryNm>URUGUAY</CtryNm>
-			<CcyNm>Peso Uruguayo</CcyNm>
-			<Ccy>UYU</Ccy>
-			<CcyNbr>858</CcyNbr>
-			<CcyMnrUnts>2</CcyMnrUnts>
 		</CcyNtry>
 		<CcyNtry>
 			<CtryNm>UZBEKISTAN</CtryNm>
@@ -1809,8 +1810,8 @@ TRISTAN DA CUNHA</CtryNm>
 			<CcyMnrUnts>0</CcyMnrUnts>
 		</CcyNtry>
 		<CcyNtry>
-			<CtryNm>VENEZUELA, BOLIVARIAN REPUBLIC OF</CtryNm>
-			<CcyNm>Bolivar</CcyNm>
+			<CtryNm>VENEZUELA (BOLIVARIAN REPUBLIC OF)</CtryNm>
+			<CcyNm>Bolívar</CcyNm>
 			<Ccy>VEF</Ccy>
 			<CcyNbr>937</CcyNbr>
 			<CcyMnrUnts>2</CcyMnrUnts>
