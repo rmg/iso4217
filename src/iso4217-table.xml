@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <!--
-	Source: https://www.currency-iso.org/dam/downloads/lists/list_one.xml
-	Date: 2018-02-06
+	Source: https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list_one.xml
+	Date: 2022-08-08
 -->
-<ISO_4217 Pblshd="2018-01-01">
+<ISO_4217 Pblshd="2022-04-01">
 	<CcyTbl>
 		<CcyNtry>
 			<CtryNm>AFGHANISTAN</CtryNm>
@@ -535,6 +535,13 @@
 			<CcyMnrUnts>2</CcyMnrUnts>
 		</CcyNtry>
 		<CcyNtry>
+			<CtryNm>ESWATINI</CtryNm>
+			<CcyNm>Lilangeni</CcyNm>
+			<Ccy>SZL</Ccy>
+			<CcyNbr>748</CcyNbr>
+			<CcyMnrUnts>2</CcyMnrUnts>
+		</CcyNtry>
+		<CcyNtry>
 			<CtryNm>ETHIOPIA</CtryNm>
 			<CcyNm>Ethiopian Birr</CcyNm>
 			<Ccy>ETB</Ccy>
@@ -990,7 +997,7 @@
 			<CcyMnrUnts>2</CcyMnrUnts>
 		</CcyNtry>
 		<CcyNtry>
-			<CtryNm>MACEDONIA (THE FORMER YUGOSLAV REPUBLIC OF)</CtryNm>
+			<CtryNm>NORTH MACEDONIA</CtryNm>
 			<CcyNm>Denar</CcyNm>
 			<Ccy>MKD</Ccy>
 			<CcyNbr>807</CcyNbr>
@@ -1317,7 +1324,7 @@
 		</CcyNtry>
 		<CcyNtry>
 			<CtryNm>PHILIPPINES (THE)</CtryNm>
-			<CcyNm>Philippine Piso</CcyNm>
+			<CcyNm>Philippine Peso</CcyNm>
 			<Ccy>PHP</Ccy>
 			<CcyNbr>608</CcyNbr>
 			<CcyMnrUnts>2</CcyMnrUnts>
@@ -1491,6 +1498,13 @@
 			<CcyMnrUnts>2</CcyMnrUnts>
 		</CcyNtry>
 		<CcyNtry>
+			<CtryNm>SIERRA LEONE</CtryNm>
+			<CcyNm>Leone</CcyNm>
+			<Ccy>SLE</Ccy>
+			<CcyNbr>925</CcyNbr>
+			<CcyMnrUnts>2</CcyMnrUnts>
+		</CcyNtry>
+		<CcyNtry>
 			<CtryNm>SINGAPORE</CtryNm>
 			<CcyNm>Singapore Dollar</CcyNm>
 			<Ccy>SGD</Ccy>
@@ -1590,13 +1604,6 @@
 			<CcyNm>Norwegian Krone</CcyNm>
 			<Ccy>NOK</Ccy>
 			<CcyNbr>578</CcyNbr>
-			<CcyMnrUnts>2</CcyMnrUnts>
-		</CcyNtry>
-		<CcyNtry>
-			<CtryNm>SWAZILAND</CtryNm>
-			<CcyNm>Lilangeni</CcyNm>
-			<Ccy>SZL</Ccy>
-			<CcyNbr>748</CcyNbr>
 			<CcyMnrUnts>2</CcyMnrUnts>
 		</CcyNtry>
 		<CcyNtry>
@@ -1790,10 +1797,17 @@
 		</CcyNtry>
 		<CcyNtry>
 			<CtryNm>URUGUAY</CtryNm>
-			<CcyNm IsFund="true">Uruguay Peso en Unidades Indexadas (URUIURUI)</CcyNm>
+			<CcyNm IsFund="true">Uruguay Peso en Unidades Indexadas (UI)</CcyNm>
 			<Ccy>UYI</Ccy>
 			<CcyNbr>940</CcyNbr>
 			<CcyMnrUnts>0</CcyMnrUnts>
+		</CcyNtry>
+		<CcyNtry>
+			<CtryNm>URUGUAY</CtryNm>
+			<CcyNm>Unidad Previsional</CcyNm>
+			<Ccy>UYW</Ccy>
+			<CcyNbr>927</CcyNbr>
+			<CcyMnrUnts>4</CcyMnrUnts>
 		</CcyNtry>
 		<CcyNtry>
 			<CtryNm>UZBEKISTAN</CtryNm>
@@ -1811,9 +1825,16 @@
 		</CcyNtry>
 		<CcyNtry>
 			<CtryNm>VENEZUELA (BOLIVARIAN REPUBLIC OF)</CtryNm>
-			<CcyNm>Bolívar</CcyNm>
-			<Ccy>VEF</Ccy>
-			<CcyNbr>937</CcyNbr>
+			<CcyNm>Bolívar Soberano</CcyNm>
+			<Ccy>VES</Ccy>
+			<CcyNbr>928</CcyNbr>
+			<CcyMnrUnts>2</CcyMnrUnts>
+		</CcyNtry>
+		<CcyNtry>
+			<CtryNm>VENEZUELA (BOLIVARIAN REPUBLIC OF)</CtryNm>
+			<CcyNm>Bolívar Soberano</CcyNm>
+			<Ccy>VED</Ccy>
+			<CcyNbr>926</CcyNbr>
 			<CcyMnrUnts>2</CcyMnrUnts>
 		</CcyNtry>
 		<CcyNtry>
