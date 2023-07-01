@@ -1,0 +1,28 @@
+name: update
+
+on:
+  pull_request:
+  push:
+  schedule:
+    # m H DoM M DoW
+    # 02:01am, every Sunday
+    - cron: '1 2 * * 0'
+
+env:
+  LIST_XML_URL: https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml
+
+jobs:
+  check-latest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-go@v3
+      - run: curl --fail -o src/iso4217-table.xml "$LIST_XML_URL"
+      - run: make
+      - run: |
+          if git diff --exit-code -- constants.go; then
+            printf "Nothing to do, no changes.\n"
+          else
+            printf "::error::Source data produced different constants. Might need to update!\n"
+            exit 1
+          fi
